@@ -3,9 +3,8 @@
 <div align="center"><img src="Media/Screenshot1.png" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling Machine</i></div>
 <div align="center"><i>-Redesign of the TseNC-</i></div>
-
-
-
+<br>
+<br>
 This is a project I did in 2023 as part of my masters degree. It involved redesigning an open source, small-format [CNC machine](https://github.com/fab-machines/TseNC) originally created by [Daniele Ingrassia](http://satshakit.com/). The idea was to solve the problems of the original and to add a coolant system with a full enclosure so the new machine could cut aluminum without supervision. The TseNC-Pro is released under the same open source license as the original TseNC. 
 
 
