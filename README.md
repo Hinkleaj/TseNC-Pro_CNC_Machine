@@ -1,6 +1,6 @@
 <div align="center"><h1 style=align="center">TseNC-Pro</h1></div>
 
-<div align="center"><img src="media/Screenshot1.png" width="100%"></div>
+<div align="center"><img src="Media/Screenshot1.png" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling Machine</i></div>
 <div align="center"><i>-Redesign of the TseNC-</i></div>
 
