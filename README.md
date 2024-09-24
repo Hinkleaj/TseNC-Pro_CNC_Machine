@@ -39,7 +39,7 @@ Author
 --
 Project Lead, Machine Design and Fabrication:
 <br>
-Aaron Hinkle
+Aaron Jay Hinkle
 <br>
 <br>
 Original TseNC Machine Design and Fabrication:<br>
